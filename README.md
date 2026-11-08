@@ -1,0 +1,1 @@
+A MERN-stack authentication system (v1) built from scratch to learn how auth works. Email-verified registration, two-step login (password + emailed OTP), JWT access and refresh tokens in httpOnly cookies, Redis-backed sessions and rate limiting, CSRF protection, Zod validation, input sanitization, and role-based admin routes.
